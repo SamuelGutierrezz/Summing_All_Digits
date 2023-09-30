@@ -21,5 +21,5 @@ int main()
 	int result = sum_of_digits(n);
 	cout << result << endl;
 
-	return 0;6
+	return 0;
 }
